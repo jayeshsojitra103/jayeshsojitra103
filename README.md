@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jayeshsojitra103
 - 👀 I’m interested in: Learning new technology
-- 🌱 I’m currently learning: Next JS
+- 🌱 I’m currently learning: Next JS,Docker, Cloud,
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : jayesh.sojitra103@gmail.com
 
