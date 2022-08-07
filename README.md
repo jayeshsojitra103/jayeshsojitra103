@@ -51,11 +51,19 @@
 
 
 ---
+
 <h3 align="center">My Stats:</h3>
 <a href="https://github.com/jayeshsojitra103">
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jayeshsojitra103&layout=compact&langs_count=8"/>
 </a>
+
+---
+<div align="center">
+  <h3> 🤝🏻 &nbsp;Support Me 🤝</h3>
   
+<a href="https://www.buymeacoffee.com/jayeshsojitra" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</div>
+
 <!---
 jayeshsimform/jayeshsimform is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
