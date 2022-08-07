@@ -52,10 +52,10 @@
 
 ---
 
-<h3 align="center">My Stats:</h3>
+<!-- <h3 align="center">My Stats:</h3>
 <a href="https://github.com/jayeshsojitra103">
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jayeshsojitra103&layout=compact&langs_count=8"/>
-</a>
+</a> -->
 
 ---
 <div align="center">
