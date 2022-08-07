@@ -1,11 +1,11 @@
 ## Hi there, I am Jayesh Sojitra
 
 
-- 🔭 I’m currently working on  [Simform Solutions](https://www.simform.com/),
+- 🔭 I’m currently working on [Simform Solutions](https://www.simform.com/),
 - 👀 I’m interested in Coding,Traveling and Playing Games
 - 🌱 I’m currently learning GraphQL, AWS
 - 💞️ I’m looking to collaborate on -
-- 📫 How to reach me -
+
 
 
 ### Languages 
