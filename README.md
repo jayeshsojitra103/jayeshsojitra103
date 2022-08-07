@@ -42,7 +42,15 @@
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Mac-0078D6?&logo=apple&logoColor=white" ></a>
 
 ---
+<h3> 🤝🏻 Connect with Me </h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/jayesh-sojitra-3031ba54/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jayesh%20Sojitra-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/jayesh_sojitra_02/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Jayesh Sojitra-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:jayesh.sojitra103@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jayesh.sojitra103@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
 
+
+---
 <h3 align="center">My Stats:</h3>
 <a href="https://github.com/jayeshsojitra103">
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jayeshsojitra103&layout=compact&langs_count=8"/>
