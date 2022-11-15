@@ -5,6 +5,7 @@
 - 👀 I’m interested in Coding,Traveling and Playing Games
 - 🌱 I’m currently learning GraphQL, and MERN stack
 - 💞️ I’m looking to collaborate on -
+- ![](https://komarev.com/ghpvc/?username=jayeshsojitra103) 
 
 
 
