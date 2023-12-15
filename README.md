@@ -1,13 +1,21 @@
 ## Hi there, I am Jayesh Sojitra
 
 
-- 🔭 I’m currently working on [Simform Solutions](https://www.simform.com/),
-- 👀 I’m interested in Coding,Traveling and Playing Games
-- 🌱 I’m currently learning GraphQL, and MERN stack
+- 🔭 I’m currently working as a Sr Software Engineer,
+- 👀 I’m interested in Coding, Traveling and Playing Games
+- 🌱 I’m currently learning the MERN stack
 - 💞️ I’m looking to collaborate on -
-- ![](https://komarev.com/ghpvc/?username=jayeshsojitra103) 
+---
+<h3> 🤝🏻 Connect with Me </h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/jayesh-sojitra-3031ba54/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jayesh%20Sojitra-blue?logo=linkedin"></a>
+<a href="https://www.fiverr.com/jayeshsojitra"><img alt="Fiver" src="https://img.shields.io/badge/fiverr-1DBF73?logo=fiverr&logoColor=white"></a>
+<a href="
+https://www.upwork.com/freelancers/~018ed704edcaf0e007"><img alt="Upwork" src="https://img.shields.io/badge/UpWork-6FDA44?logo=Upwork&logoColor=white"></a>
+   
+</p>
 
-
+---
 
 ### Languages 
 
@@ -16,7 +24,8 @@
 <a href="#"><img alt="JS" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black" ></a>
 <a href="#"><img alt="Boostrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?&logo=bootstrap" ></a>
 <a href="#"><img alt="React.js" src="https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB" ></a>
-<a href="#"><img alt="Next JS" src="https://img.shields.io/badge/NextJS-%2300f.svg?logo=nextjs&logoColor=white"></a>
+<a href="#"><img alt="Express JS" src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB"></a>
+
 
 ---
 
@@ -39,16 +48,9 @@
 
 ### OS
 
-<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white" ></a>
-<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Mac-0078D6?&logo=apple&logoColor=white" ></a>
-
----
-<h3> 🤝🏻 Connect with Me </h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/jayesh-sojitra-3031ba54/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jayesh%20Sojitra-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/jayesh_sojitra_02/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Jayesh Sojitra-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:jayesh.sojitra103@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jayesh.sojitra103@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+<a href="#"><img alt="Window" src="https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white" ></a>
+<a href="#"><img alt="Apple" src="https://img.shields.io/badge/Mac-0078D6?&logo=apple&logoColor=white" ></a>
+<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" ></a>
 
 
 <!-- <h3 align="center">My Stats:</h3>
